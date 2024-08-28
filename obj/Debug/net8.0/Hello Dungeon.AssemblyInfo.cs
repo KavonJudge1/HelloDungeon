@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hello Dungeon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe00c0449b9a0446ee676295362ce65785bea01b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hello Dungeon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hello Dungeon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
