@@ -1,0 +1,4 @@
+C:\Users\s248054\Documents\Dev\Hello Dungeon\Hello Dungeon\obj\Debug\net8.0\Hello Dungeon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s248054\Documents\Dev\Hello Dungeon\Hello Dungeon\obj\Debug\net8.0\Hello Dungeon.AssemblyInfoInputs.cache
+C:\Users\s248054\Documents\Dev\Hello Dungeon\Hello Dungeon\obj\Debug\net8.0\Hello Dungeon.AssemblyInfo.cs
+C:\Users\s248054\Documents\Dev\Hello Dungeon\Hello Dungeon\obj\Debug\net8.0\Hello Dungeon.csproj.CoreCompileInputs.cache
